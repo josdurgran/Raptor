@@ -1,0 +1,11 @@
+Versionado
+
+ww.xx.yy.zz
+
+ww =  	Cambios sistematicos que alteren a gran escala el sistema y su arquitectura.
+xx = 	Aplicación: Adicion de muevos modulos, Hotfix de alta complejidad, mecanismos de seguridad, cambios en las clases que afecten compatibilidad.
+		Base de datos: Adicion ó eliminación de tablas, traslados de registros, permisos, esquemas 
+yy = 	Aplicación: Hotfix de mediana complejidad, adicion de nuevas funciones a los modulos existentes, cambios en las clases que no afecten compatibilidad
+		Base de datos: Adicion ó eliminación de constrainsts, columnas, indices de tipo unico, cambios de tipo de dato 
+zz =	Aplicacion: Ortografia, presentación, hotfix menores 
+		Base de datos: adicion ó eliminación de comentarios, registros que no afecten programacion, indices no unique.

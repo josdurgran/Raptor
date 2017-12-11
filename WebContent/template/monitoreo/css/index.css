@@ -1,0 +1,83 @@
+@CHARSET "ISO-8859-1";
+
+.clear{
+	clear:both;
+}
+
+.container_full{
+border:2px solid #1e8449;
+width:99.7%;
+overflow:auto;
+float:left;
+}
+
+.container{
+
+border:2px solid #1e8449;
+width:49.75%;
+overflow:auto;
+float:left;
+}
+
+.fila{
+
+max-width:99%;
+margin:0 auto;
+text-align:center;
+}
+
+.w3-left, .w3-right, .w3-badge{
+	color:black;
+	cursor:pointer;
+}
+
+
+.w3-center{	
+	width:70%;
+	color:#006600;
+	float:left;	
+	text-align:center;
+}
+
+.w3-left{	
+	width:14%;
+	float:left;	
+}
+.w3-right{	
+	width:14%;
+	float:left;	
+}
+
+.w3-left img{
+	
+	float:right;
+	
+} 
+
+.up{
+	
+	color:#660000;
+	
+}
+
+
+.banner h1,h2{
+	display:inline-block;
+	margin:0;
+	padding:10px;
+	color:#212f3d;
+	
+}
+
+.banner h1 img{
+	
+	vertical-align:middle;
+	padding:0 10px 0 10px;
+}
+
+
+.notifica{
+	
+	float:right;
+	
+}
